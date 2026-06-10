@@ -1,0 +1,6 @@
+{
+  "name": "MEDIS Robot Triage & Map Router",
+  "description": "Autonomous medical chassis platform featuring stretcher patrol routing, automatic appointments assigned to walk-ins, clinic doctor room guiding, and emergency hallway pathfinding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
